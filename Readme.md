@@ -1,5 +1,6 @@
 [![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
 
+Please note right now I've only managed to get Windows 1.01 working in Debug mode only.
 
 Demos
 -
